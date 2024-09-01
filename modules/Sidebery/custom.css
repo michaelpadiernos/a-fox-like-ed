@@ -1,0 +1,47 @@
+#root.root * { border-radius: 0 !important; }
+#root.root { * { border-radius: 0 !important; } }
+
+#root.root {--tabs-margin: 2px;}
+#root.root {--tabs-indent: 15px;}
+
+#root.root {--ctx-menu-font: 0.875rem "Share Tech Mono";}
+#root.root {--bookmarks-bookmark-font: 0.9375rem "Share Tech Mono";}
+#root.root {--bookmarks-folder-font: 0.9375rem "Share Tech Mono";}
+#root.root {--popup-shadow: 0 12.1px 10px rgba(0,0,0,.035),0 97px 80px rgba(0,0,0,.07);}
+#root.root {--general-margin: 4px;}
+#root.root {--tabs-font: 0.9375rem "Share Tech Mono";}
+#root.root {--tabs-count-font: 0.5625rem "Share Tech Mono";}
+#root.root {--nav-delimiter-size: 16px;}
+#root.root {--nav-hidden-panels-popup-margin: 4px;}
+#root.root {--tabs-inner-gap: 10px;}
+#root.root {--tabs-close-btn-margin: 0px;}
+#root.root {--nav-btn-margin: 2px;}
+#root.root {--nav-btn-len-margin: 4px;}
+
+#root.root {--toolbar-fg: rgb(216, 216, 216);}
+#root.root {--frame-bg: #000000ff;}
+
+#root.root {--toolbar-bg: #000000ff;}
+#root.root {--ntb-btn-height: 42px;}
+#root.root {--bookmarks-bookmark-height: 42px;}
+#root.root {--bookmarks-folder-height: 42px;}
+#root.root {--tabs-pinned-height: 44px;}
+#root.root {--tabs-pinned-width: 44px;}
+#root.root {--tabs-height: 44px;}
+#root.root {--nav-btn-width: 44px;}
+#root.root {--nav-btn-height: 44px;}
+
+#root.root {--ctx-menu-opt-border-radius: 0;}
+#root.root {--ctx-menu-border-radius: 0;}
+#root.root {--slt-border-radius: 0;}
+#root.root {--search-border-radius: 0;}
+#root.root {--ntb-border-radius: 0;}
+#root.root {--notification-border-radius: 0;}
+#root.root {--btn-border-radius: 0;}
+#root.root {--history-item-border-radius: 0;}
+#root.root {--bookmarks-border-radius: 0;}
+#root.root {--tabs-border-radius: 0;}
+#root.root {--nav-btn-border-radius: 0;}
+#root.root {--nav-hidden-btn-border-radius: 0;}
+#root.root {--general-border-radius: 0;}
+#root.root {--popup-border-radius: 0;}

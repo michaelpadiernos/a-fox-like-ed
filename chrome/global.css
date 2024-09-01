@@ -1,0 +1,27 @@
+* {
+    border-radius: 0px !important;
+}
+
+/*
+#TabsToolbar,
+#sidebar-header {
+    display: none;
+}
+*/
+
+#navigator-toolbox,
+.sidebar-splitter {
+    border-width: 0px !important;
+}
+
+#navigator-toolbox,
+#navigator-toolbox #nav-bar {
+    background-color: black !important;
+}
+
+#nav-bar,
+#nav-bar *,
+#urlbar-container,
+#urlbar-container * {
+    border-radius: 0 !important;
+}
