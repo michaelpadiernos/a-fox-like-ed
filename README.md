@@ -1,2 +1,1 @@
-# amolenameed
-# amolelikeed-firefox
+# A Mole Like Ed: Firefox CSS
