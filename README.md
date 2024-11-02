@@ -1,1 +1,1 @@
-# A Mole Like Ed: Firefox CSS
+# A Fox Like Ed: An AMOLED Firefox CSS Theme
